@@ -11,7 +11,7 @@ java DoomWad [WAD File Name]
 More information can be found here: http://doom.wikia.com/wiki/WAD
 
 ### Header
-A WAD file always starts with a 12-byte header. It contains three values: 
+A WAD file always starts with a 12-byte header. It contains three values:
 Position | Length | Name | Description
 ---------|--------|------|------------
 0x00 | 4 | identification | The ASCII characters "IWAD" or "PWAD". Defines whether the WAD is an IWAD or a PWAD.
